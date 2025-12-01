@@ -9,6 +9,9 @@ The goal is to configure the current stack (API server, OPC clients, Azure stora
 <!-- > NOTE: This work builds on a pre-existing digital twin codebase that is licensed under a **Research-Use-Only ShareAlike License (RUL-SA) v1.3**.  
 > All activities described here are strictly non-commercial and respect the original license. -->
 
+![Portal](src/portal.png "Portal")
+
+
 ---
 
 ## 1. Project Overview
@@ -56,6 +59,8 @@ We are currently in an **early setup and familiarization phase**.
     - Verify that sensor data can be ingested into a test Azure storage account
 
 At this stage, the focus is on **understanding the system and running it safely**, without changing core behavior.
+
+![Local Portal](src/localportal.png "Local Portal")
 
 ---
 
